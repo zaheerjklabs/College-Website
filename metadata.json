@@ -1,0 +1,6 @@
+{
+  "name": "Shanta Institute of Technology Gulbarga",
+  "description": "Official college portal for Shanta Institute of Technology Gulbarga (SIT) featuring academic departments, faculty directory, student portal, admissions, facilities, and a complete Faculty CMS for course materials and announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
